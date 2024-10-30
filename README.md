@@ -1,6 +1,6 @@
 # Three-Phase Wettability Calculator
 
-This repository contains an Excel macro for calculating three-phase wettability on smooth surfaces using the surface force analysis framework. The tool leverages VBA (Visual Basic for Applications) to interactively analyse surface forces, enabling detailed assessments of wettability.
+This repository contains an Excel macro for calculating three-phase wettability on smooth surfaces using the surface force analysis framework. The tool leverages VBA (Visual Basic for Applications) to interactively analyse surface forces, enabling detailed assessments of wettability. For more  information about the methodology used within this tool, check this link: https://www.sciencedirect.com/science/article/pii/S2666934X22000216
 
 ## Features
 - Calculates three-phase wettability on smooth surfaces.
