@@ -14,7 +14,7 @@ This repository contains an Excel macro for calculating three-phase wettability 
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/FarzanehNazari95/Three-Phase-Wettability-Calculator.git>
+   git clone <https://github.com/FarzanehNazari95/Three-Phase-Contact-Angle-Calculator.git>
 2. Open the Excel file in this repository.
 3. Enable macros when prompted in Excel.
 4. Follow the instructions within the sheets to perform calculations.
